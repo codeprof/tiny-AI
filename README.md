@@ -1,5 +1,5 @@
 
-#<img src="https://raw.githubusercontent.com/codeprof/tiny-AI/master/logo/icon.png"  style="float:left" width="32"> Tiny-AI Library
+# <img src="https://raw.githubusercontent.com/codeprof/tiny-AI/master/logo/icon.png" style="float:left" width="32"> Tiny-AI Library
 
 A fast artificial intelligence library which currently supports:
 kNN (k-Nearest Neighbor algorithm)
